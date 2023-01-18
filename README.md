@@ -6,8 +6,12 @@ Analysis: Concepts of exponential smoothing, ARIMA/SARIMA and moving average wer
 
 The pattern was based on past shoe sales data from Jan 1980 to July 1995.
 
-Outcome: SARIMA model was found to be optimum model for the study and was used to forecast the shoe sales. It was found that the shoe sales will peak in December and then fall in January.
+Outcome: SARIMA model was found to be optimum model for the study and was used to forecast the shoe sales. 
 
 ![forecast](https://user-images.githubusercontent.com/122913145/213244830-7bcb2fad-d320-4cad-9297-59cc94fe1992.png)
+
+![monthly](https://user-images.githubusercontent.com/122913145/213245414-51dda51a-8e7a-49f4-8af4-b90ef2ea8f62.png)
+
+It was found that the shoe sales will peak in December and then fall in January.
 
 Business decision: Discounts, offers and warranty with a valid time period can be given. New styles can be introduced in December when the sales are highest. Paid partnerships and collaborations with social media influencers to advertise the brand.
